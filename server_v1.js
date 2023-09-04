@@ -9,7 +9,8 @@ var grpc = require('@grpc/grpc-js');
  * @return {lastName}
  */
 function checkLast(first) {
-    console.log(first.getName());
+    console.log("recieved "+first.getName());
+    console.log("sending horowitz");
     last = new messages.LastName();
     last.setName("horowitz")
     return last;
