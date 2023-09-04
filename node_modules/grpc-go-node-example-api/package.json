@@ -1,0 +1,19 @@
+{
+  "name": "grpc-go-node-example-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maxhorowitz/grpc-go-node-example-api.git"
+  },
+  "author": "Max Horowitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxhorowitz/grpc-go-node-example-api/issues"
+  },
+  "homepage": "https://github.com/maxhorowitz/grpc-go-node-example-api#readme"
+}
